@@ -1,0 +1,26 @@
+{
+  "name": "smartchat",
+  "version": "1.0.0",
+  "description": "A smart chat room app ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sandydcr/smartChat.git"
+  },
+  "keywords": [
+    "nodejs",
+    "js",
+    "chat",
+    "smartchat",
+    "chatroom"
+  ],
+  "author": "Shubham Rana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sandydcr/smartChat/issues"
+  },
+  "homepage": "https://github.com/sandydcr/smartChat#readme"
+}
